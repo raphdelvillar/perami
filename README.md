@@ -1,6 +1,6 @@
 # perami
 
-A new Flutter project.
+A money borrowing app
 
 ## Getting Started
 

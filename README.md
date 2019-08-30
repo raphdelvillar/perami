@@ -1,6 +1,10 @@
 # perami
 
-A money borrowing app
+A money borrowing app.
+
+It's a mix between Peram and Me
+
+Peram is a filipino word that means "Borrow"
 
 ## Getting Started
 
